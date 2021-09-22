@@ -1,1 +1,1 @@
-GAME2014-F2021-Lab1b-main
+Repo for Game2014 lab assignment_Yeongjin Lim(101256371)
